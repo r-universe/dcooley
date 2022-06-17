@@ -1,0 +1,10 @@
+[
+  {
+    "package": "geometries",
+    "oncran": true
+  },
+  {
+    "package": "sfheaders",
+    "oncran": true
+  }
+]
