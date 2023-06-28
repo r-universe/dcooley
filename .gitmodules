@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "geometries"]
 	path = geometries
 	url = https://github.com/dcooley/geometries
-	shallow = true
-	registered = true
 [submodule "sfheaders"]
 	path = sfheaders
 	url = https://github.com/dcooley/sfheaders
-	shallow = true
-	registered = true
